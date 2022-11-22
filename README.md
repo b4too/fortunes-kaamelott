@@ -17,3 +17,8 @@ sudo mv fortunes-kaamelott* /usr/share/games/fortunes/
 ![demo](https://user-images.githubusercontent.com/58328740/203331622-1d56e32b-1279-4fd3-9d55-77abc1926249.png)
 
 ( rendu via `fortune | cowsay -W 120 | lolcat` )
+
+---
+Pour modifier les citations, il faut :
+* modifier le fichier fortunes-kaamelott
+* regénérer le .dat via `strfile fortunes-kaamelott fortunes-kaamelott.dat`
