@@ -10,7 +10,7 @@ Merci à [sin0light](https://github.com/sin0light/api-kaamelott) pour sa bdd ada
 * Pour importer les citations kaamelottesques, faire :
 ```
 wget -O fortunes-kaamelott https://raw.githubusercontent.com/methatronc/fortunes-kaamelott/main/fortunes-kaamelott
-wget -O fortunes-kaamelott.dat https://github.com/methatronc/fortunes-kaamelott/raw/main/fortunes-kaamelott.dat
+wget -O fortunes-kaamelott.dat https://raw.githubusercontent.com/methatronc/fortunes-kaamelott/main/fortunes-kaamelott.dat
 sudo mv fortunes-kaamelott* /usr/share/games/fortunes/
 ```
 ---
