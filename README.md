@@ -13,3 +13,7 @@ wget -O fortunes-kaamelott https://raw.githubusercontent.com/methatronc/fortunes
 wget -O fortunes-kaamelott.dat https://github.com/methatronc/fortunes-kaamelott/raw/main/fortunes-kaamelott.dat
 sudo mv fortunes-kaamelott* /usr/share/games/fortunes/
 ```
+---
+![demo](https://user-images.githubusercontent.com/58328740/203331622-1d56e32b-1279-4fd3-9d55-77abc1926249.png)
+
+( rendu via `fortune | cowsay -W 120 | lolcat` )
